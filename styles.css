@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.container{
+	height:100vh;
+	weight:100vw;
+	background:lightgray
+}
+table{
+	border:1px;
+}
+#2{
+	width:200px;
+}
+#3{
+	width:600px;
+}
+#4{
+	width:200px;
+}
+#5{
+	width:200px;
+}
+#6{
+	width:600px;
+}
+#7{
+	width:200px;
+}
